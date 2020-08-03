@@ -1,0 +1,2 @@
+# Predict-Drug-Type-Using-Decesion-Trees
+This model groups the patients into certain groups depending upon the type of drug that suits them . Various features of the health results of these patient were examined and a pattern was found that the person having similar health results are cured by similar type of drug . So , this model predicts that which type of drug will be best suited to the new patients depending upon the health reports of the previous patients using Decision Tree Algorithm.
